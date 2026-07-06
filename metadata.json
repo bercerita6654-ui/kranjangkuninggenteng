@@ -1,0 +1,6 @@
+{
+  "name": "Keranjang Kuning",
+  "description": "Aplikasi Katalog dan Keranjang Belanja Pintar dengan fitur Scan Barcode SKU, Multi-Harga (Eceran, Grosir, Partai, Custom), serta Ekspor CSV/Salin Teks Format Pesanan.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
